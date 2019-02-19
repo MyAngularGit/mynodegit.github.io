@@ -14,9 +14,9 @@
     "mssql": "^4.3.0"
   },
   "config": {
-    "user": "sa",
-    "password": "ravichandra",
-    "server": "ADMIN-PC\\RAVICHANDRA",
-    "database": "BBS"
+    "user": "DB_A45BB7_smartpraveena_admin",
+    "password": "kumar@1211",
+    "server": "SQL7002.site4now.net",
+    "database": "DB_A45BB7_smartpraveena"
   }
 }
