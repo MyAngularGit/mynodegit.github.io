@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "node server js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "praveen kumar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mssql": "^4.3.0"
+  },
+  "config": {
+    "user": "sa",
+    "password": "ravichandra",
+    "server": "ADMIN-PC\\RAVICHANDRA",
+    "database": "BBS"
+  }
+}
